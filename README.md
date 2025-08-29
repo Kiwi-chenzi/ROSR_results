@@ -1,1 +1,1 @@
-# Reduced-Order-Symbolic-Regression-ROSR-for-High-Velocity-Impact-Dynamics-
+# ROSR for High-Velocity Impact Dynamics
